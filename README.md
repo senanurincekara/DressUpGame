@@ -43,3 +43,5 @@ To get started with this project, follow these steps:
 
 ## Download the App
 You can download the latest version of the app from the link below:   
+https://github.com/senanurincekara/DressUpGame/blob/main/downloadAPK/app-release.apk
+
