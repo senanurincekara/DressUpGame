@@ -10,6 +10,18 @@ A fun and interactive mobile dress-up game built with Flutter, featuring customi
 - Layering Logic: Ensure shirts are always rendered above pants for a realistic look.
 - Dynamic Positioning: Place items exactly where you want them on the avatar.
 
+#
+
+Flutter ile geliştirilen bu mobil oyun, kullanıcıların avatarlarını özelleştirmelerine olanak tanıyan, sürükle-bırak işlevselliğiyle kıyafet ve aksesuarları avatar üzerine kolayca yerleştirebilecekleri ve farklı kıyafet kategorilerinde gezinebilecekleri bir platform sunmaktadır.
+
+Özellikler:
+
+- Avatar Seçimi: Oyun deneyiminizi kişiselleştirmek için çeşitli avatarlar arasından seçim yapılma.
+- Sürükle ve Bırak Arayüzü: Kıyafetleri ve aksesuarları avatarınıza kolayca sürükleyip bırakın.
+- Kategorize Edilmiş Kıyafetler: Elbiseler, gömlekler, pantolonlar ve ayakkabılar gibi çeşitli kategoriler
+- Katmanlama Mantığı: kıyafetlerin gerçekçi bir şekilde görüntülenmesini sağlayarak gömleklerin pantolonların üzerinde gösterilmesini mümkün kılar. 
+- Dinamik Konumlandırma: eşyaların avatar üzerinde istenilen pozisyona yerleştirebilmesi
+
 ## Video
 
 
